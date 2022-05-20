@@ -6,7 +6,7 @@ The following projects are affiliated with the University of Maryland - College 
 If you would like to view them, please contact me through abelphilip.philip@gmail.com. 
 
 The Projects are as following: 
-1) **Project 1 - Tube Video Manager **
+1) **Project 1 - Tube Video Manager**
 2) **Project 2 - WebPage Generator**
 3) **Project 3 - ClearCell Game**
 4) **Project 4 - Interest Table**
